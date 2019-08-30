@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Louis Espinda",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://Lespinda.github.io/images/molly.png",
+    "email": "Lespinda@hawaii.edu",
+    "phone": "",
+    "website": "https://Lespinda.github.io",
+    "summary": "I am in pursuit of my bachelor's degree in Finance at the University of Hawaii at Manoa. I aim to graduate in May, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,24 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Lespinda",
+        "url": "http://github.com/Lespinda"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "finance",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "accounting",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "technology",
       "keywords": [
       ]
     }
@@ -84,11 +67,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Finance (expected May, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2013-",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.0",
       "courses": [
       ]
     }
